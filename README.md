@@ -1,6 +1,6 @@
 # BiteNet Reproduction Study
 
-This repository contains the reproducibility study for the paper [BiteNet: Bidirectional Temporal Encoder Network to Predict Medical Outcomes](https://github.com/Xueping/BiteNet). Our work is based on the original implementation provided by the authors, with modifications and re-implementation of the BiteNet model in PyTorch.
+This repository contains the reproducibility study for the paper [BiteNet: Bidirectional Temporal Encoder Network to Predict Medical Outcomes](https://arxiv.org/pdf/2009.13252). Our work is based on the original implementation provided by the authors, with modifications and re-implementation of the BiteNet model in PyTorch.
 
 ## Overview
 
