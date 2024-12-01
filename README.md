@@ -10,7 +10,7 @@ BiteNet is a deep learning architecture designed to predict medical outcomes usi
 
 We borrowed the data preprocessing procedure from the original [BiteNet repository](https://github.com/Xueping/BiteNet) to process the MIMIC-III dataset. This preprocessing step extracts relevant patient data and organizes it into a structured format compatible with the BiteNet model. The processed data is saved in a file named `visit_dataset.pkl`.
 
-To load the processed data correctly, the utility functions from the original implementation (`utils.py`) must be used. Ensure the dependencies are correctly set up to avoid errors during data loading.
+To load the processed data correctly, the utility functions from the original implementation must be used. Ensure the dependencies are correctly set up to avoid errors during data loading.
 
 ## Our Contributions
 
